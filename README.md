@@ -1,5 +1,5 @@
 # customDashboard
-*Dashboard created for the Antimicrobial Stewardship at AIIMS, New Delhi*
+#Dashboard created for the Antimicrobial Stewardship at AIIMS, New Delhi#
 
 Steps for using this dashboard:-
 
