@@ -1,2 +1,2 @@
 "x"
-"grey_light"
+"poor_mans_flatly"
